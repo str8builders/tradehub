@@ -1,0 +1,9 @@
+{
+  "name": "TradePod",
+  "description": "A voice-inspired AI assistant for tradespeople featuring immersive visuals, real-time voice interaction, and trade-specific knowledge.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
